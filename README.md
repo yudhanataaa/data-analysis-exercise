@@ -24,8 +24,3 @@ This repository contains a collection of Python-based workflows demonstrating fo
   - Scatter plots and regression models for health variables.
   - Histogram and Kernel Density Estimation (KDE) to analyze pest population variance across different environmental zones.
   - Boxplots for category-based health and biological metric comparisons.
-
-## 🚀 How to Run
-1. Clone this repository: `git clone https://github.com/your-username/computational-biology-toolkit.git`
-2. Open the `.ipynb` file using Jupyter Notebook or import it into Google Colab.
-3. Run the cells sequentially. *Note: Ensure you have pandas, matplotlib, and seaborn installed in your environment.*
