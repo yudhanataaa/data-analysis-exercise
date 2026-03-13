@@ -1,4 +1,4 @@
-#  Computational Biology & Data Analysis Toolkit
+#  Computational Biology & Data Analysis Exercise
 
 ## 📌 Project Overview
 This repository contains a collection of Python-based workflows demonstrating foundational skills in **Data Science, Exploratory Data Analysis (EDA), and Basic Bioinformatics**. The notebook serves as a toolkit for processing biological sequences, cleaning messy datasets, and visualizing scientific data using modern computational libraries.
